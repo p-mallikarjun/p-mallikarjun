@@ -2,7 +2,6 @@
 <h3 align="center">A passionate software engineer in this IT industry</h3>
 
 <img align="right" alt="developing" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p-mallikarjun&label=Profile%20views&color=0e75b6&style=flat" alt="p-mallikarjun" /> </p>
 
 - 📫 How to reach me **mp.mallikarjunp@gmail.com**
 
